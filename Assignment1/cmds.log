@@ -1,0 +1,426 @@
+    1  passwd
+    2  ls
+    3  sudo useradd bob
+    4  pwd
+    5  touch spotify
+    6  ls
+    7  ls -ltr | wc -l
+    8  mkdir tryDir/
+    9  ls -ltr
+   10  wget www.github.com
+   11  cd ~/Desktop
+   12  mkdir myproject
+   13  cd myproject/
+   14  git init
+   15  mkdir cs131
+   16  cd cs131/
+   17  git init
+   18  touch worksheet1.txt
+   19  ls
+   20  git status
+   21  git add worksheet1.txt
+   22  git status
+   23  git commit -m "my first commit!"
+   24  git config --global user.name "Albert Chan"
+   25  git commit -m "This is my first commit!"
+   26  git branch
+   27  git remote add origin https://github.com/albechan1101/cs131.git
+   28  git push -u origin main
+   29  git branch -M main
+   30  git push -u origin main
+   31  cd ~/.ssh&& ssh-keygen
+   32  mkdir ~/.ssh
+   33  cd ~/.ssh && ssh-keygen
+   34  mkdir ~/.ssh
+   35  cd ~/.ssh && ssh-keygen
+   36  git remote add origin https://github.com/albechan1101/cs131.git
+   37  git branch -M main
+   38  cd Desktop
+   39  mkdir cs131
+   40  rmdir cs131
+   41  git init
+   42  git status
+   43  cd ~/.ssh && ssh-keygen
+   44  cat id_rsa.pub
+   45  ls
+   46  pwd
+   47  ssh-keygen
+   48  ls
+   49  cat id_rsa.pub
+   50  clear
+   51  git remote add origin https://github.com/albechan1101/cs131.git
+   52  git branch -M main
+   53  git push -u origin main
+   54  cd cs131
+   55  git status
+   56  rm -rf cs131
+   57  cd home
+   58  clear
+   59  git status
+   60  rm -rf cs131
+   61  cd cs131
+   62  cd
+   63  rm -rf cs131
+   64  cd cs131
+   65  mkdir cs131
+   66  cd cs131
+   67  git inti
+   68  git init
+   69  touch worksheet1.txt
+   70  ls
+   71  git status
+   72  git add worksheet1.txt
+   73  git status
+   74  git commit -m "My first commit!"
+   75  git branch
+   76  git remote add origin https://github.com/albechan1101/cs131.git
+   77  git branch -M main
+   78  git push -u origin main
+   79  git remote add origin https://github.com/albechan1101/cs131.git
+   80  git branch -M main
+   81  git push -u origin main
+   82  git remote add origin https://github.com/albechan1101/cs131.git
+   83  git commit -m "Message"
+   84  git push --set-upstream origin master
+   85  clear
+   86  git commit -m "Message"
+   87  git push --set-upstream origin master
+   88  clear
+   89  git remote add origin https://github.com/albechan1101/cs131.git
+   90  git remote add origin https://github.com/albechan1101/cs131..git
+   91  git remote remove origin
+   92  git remote add origin https://github.com/albechan1101/cs131..git
+   93  git remote remove origin
+   94  clear
+   95  git remote add origin https://github.com/albechan1101/cs131.git
+   96  git commit -m "Message"
+   97  git push --set-upstream origin master
+   98  git branch -M main
+   99  git push -u origin main
+  100  clear
+  101  git push --set-upstream origin master
+  102  cd cs131
+  103  git status
+  104  git remote add origin https://github.com/albechan1101/cs131.git
+  105  git branch -M main
+  106  git push -u origin main
+  107  cd ~/.ssh && ssh-keygen
+  108  cat ~/.ssh/id_rsa.pub
+  109  cat id_rsa.pub
+  110  cat id_rsa.pub.pub
+  111  cat id_rsa.pub.pub.
+  112  id_rsa.pub.pub
+  113  SHA256:1xpsRxg23pOrxS7LXt/zWUuVDSVDm4HrDItBUhYNgkg albertsp24@sjsu.pic2.isv.ihost.com
+  114  $ ls ~/.ssh/*.pub
+  115  ls ~/.ssh/*.pub
+  116  rm -rf cs131
+  117  cd cs131
+  118  clear
+  119  cd ~/Desktop
+  120  mkdir cs131
+  121  cd cs131
+  122  git init
+  123  touch worksheet1.txt
+  124  ls
+  125  git status
+  126  git add worksheet1.txt
+  127  git status
+  128  git commit -m "my first commit"
+  129  git branch
+  130  git remote add origin https://github.com/albechan1101/cs131.git
+  131  git branch -M main
+  132  git push -u origin main
+  133  mkdir worksheet1
+  134  cd worksheet1
+  135  git init
+  136  touch newfile.txt
+  137  ls
+  138  git status
+  139  git add newfile.txt
+  140  git status
+  141  git commit -m "This is my first commit!"
+  142  git config --global user.name "albechan1101"
+  143  git checkout -b "my branch"
+  144  git checkout -b <my branch name>
+  145  git chckout -b master
+  146  git checkout -b master
+  147  git branch
+  148  cd worksheet1
+  149  git branch
+  150  git checkout [-q] [-f] [-m] [<branch>]
+  151  git checkout -b my-new-branch
+  152  git branch
+  153  git remote add origin https://github.com/albechan1101/cs131.git
+  154  git branch -M main
+  155  git push -u origin main
+  156  git remote add origin git@github.com:albechan1101/cs131.git
+  157  git remote remove origin
+  158  clear
+  159  git remote add origin git@github.com:albechan1101/cs131.git
+  160  git branch -M main
+  161  git push -u origin main
+  162  git push origin my-new-branch
+  163  git mv newfile.txt worksheet1.txt
+  164  git commit -m "newfile.txt renamed to worksheet1.txt"
+  165  mv newfile.txt worksheet1.txt
+  166  clear
+  167  git branch
+  168  git push origin main
+  169  cmds.log
+  170  history > cmds.log
+  171  echo history > cmds.log
+  172  git push origin history > cmds.log
+  173  wget https://raw.githubusercontent.com/khanchandaniashish/CS131/main/Global%20YouTube%20Statistics.csv
+  174  ls
+  175  grep 'United States' Global\ YouTube\ Statistics.csv 
+  176  grep 'Music' Global\ YouTube\ Statistics.csv 
+  177  grep -c 'Music' Global\ YouTube\ Statistics.csv 
+  178  grep 'Music' Global\ YouTube\ Statistics.csv | wc
+  179  ls
+  180  mkdir counts.txt
+  181  ls
+  182  grep 'United States' Global\ YouTube\ Statistics.csv >counts.txt
+  183  cd counts.txt
+  184  ls
+  185  cd
+  186  rmdir counts.txt/
+  187  ls
+  188  touch counts.txt
+  189   grep 'United States' Global\ YouTube\ Statistics.csv >counts.txt
+  190  cd counts.txt
+  191  grep 'Music' Global\ YouTube\ Statistics.csv >> counts.txt
+  192  vi counts.txt
+  193  cmds.log
+  194  wget https://raw.githubusercontent.com/khanchandaniashish/CS131/main/Global%20YouTube%20Statistics.csv
+  195  ls
+  196  grep 'United States' Global\ YouTube\ Statistics.csv
+  197  cat counts.txt
+  198  OB
+  199  vi counts.txt
+  200  nano counts.txt
+  201  grep -c 'Music' Global\ YouTube\ Statistics.csv
+  202  grep 'Music' Global\ YouTube\ Statistics.csv | wc
+  203  rm counts.txt 
+  204  cd counts.txt
+  205  touch counts.txt
+  206  wc grep 'Music' Global\ YouTube\ Statistics.csv
+  207  grep 'Music' Global\ YouTube\ Statistics.csv | wc > counts.txt
+  208  vi counts.txt 
+  209  vi counts.txt
+  210  history > cmds.log
+  211  vi counts.txt 
+  212  clera
+  213  clear
+  214  git init
+  215  ls
+  216  git status
+  217  git add counts.txt
+  218  git status
+  219  git history
+  220  vi cmds.log
+  221  vi bash_history
+  222  history > cmds.log
+  223  ls
+  224  git add cmds.log
+  225  git status
+  226  git commit -m "a commit"
+  227  git checkout my-new-branch
+  228  git branch
+  229  git@github.com:albechan1101/cs131.git
+  230  https://github.com/albechan1101/cs131.git
+  231  git clone https://github.com/albechan1101/cs131.git
+  232  git push origin main
+  233  git push --set-upstream origin master
+  234  git push origin main
+  235  git@github.com:albechan1101/cs131.git
+  236  git remote add origin git@github.com:albechan1101/cs131.git
+  237  git push -u origin main
+  238  git push -u origin master
+  239  git checkout main
+  240  ls
+  241  cat counts.txt 
+  242  git remote -v
+  243  git remote set-url origin git@github.com:USERNAME/REPONAME.git
+  244  git@github.com:albechan110
+  245  git remote add origin git@github.com:albechan1101/cs131.git
+  246  git remote remove https://github.com/albechan1101/cs131.git
+  247  git remote remove origin
+  248  git remote -v
+  249  git remote add origin git@github.com:albechan1101/cs131.git
+  250  git push -u origin main
+  251  git checkout -b master
+  252  git branch
+  253  git checkout -b my-new-branch
+  254  git branch
+  255  git push -u origin master
+  256  git push origin my-new-branch
+  257  git branch -D master
+  258  git branch
+  259  git reset HEAD
+  260  git status
+  261  git -b master
+  262  git branch
+  263  git checkout -b master
+  264  git branch
+  265  git push -u origin master
+  266  git branch
+  267  git status
+  268  git push -u origin master
+  269  git fetch origin
+  270  git checkout master
+  271  git branch
+  272  git push origin my-new-branch
+  273  git push -u origin master
+  274  git push origin my-new-branch
+  275  git remote add origin git@github.com:albechan1101/cs131.git
+  276  git push -u origin master
+  277  git checkout -b my-new-branch
+  278  git checkout my-new-branch
+  279  git branch
+  280  git push origin my-new-branch
+  281  git push -u origin master
+  282  git push origin my-new-branch
+  283  wget https://counts.com/counts.txt
+  284  git push origin my-new-branch
+  285  git init
+  286  touch counts.txt
+  287  ls
+  288  git add counts.txt
+  289  git add cmds.log
+  290  git status
+  291  git inti
+  292  git init
+  293  mkdir worksheet2
+  294  cd worksheet2
+  295  git init
+  296  ls
+  297  mv counts.txt
+  298  mv counts.txt worksheet2
+  299  cd
+  300  mv counts.txt worksheet2
+  301  mv cmds.log worksheet2
+  302  cd worksheet2
+  303  ls
+  304  vi counts.txt 
+  305  vi cmds.log 
+  306  git status
+  307  git add cmds.log 
+  308  git add counts.txt 
+  309  git status
+  310  commit -m "my commit"
+  311  git commit -m "my commit"
+  312  git config --global user.name "Your Name"albechan1101"
+  313  adfadf
+  314  clear
+  315  "
+  316  git config --global user.name "albechan1101"
+  317  git commit -m "my commit"
+  318  git commit -m "This is my commit"
+  319  git branch
+  320  git checkout -b my-new-branch
+  321  git branch
+  322  git remote add origin git@github.com:albechan1101/cs131.git
+  323  git push -u origin master
+  324  git push origin my-new-branch
+  325  mkdir Assignment1
+  326  cd Assignment1
+  327  echo Shell
+  328  echo $SHELL
+  329  echo $HOME
+  330  id
+  331  ls
+  332  adfadf
+  333  ls
+  334  cd Assignment1/
+  335  ls
+  336  echo $SHELL
+  337  echo $HOME
+  338  id
+  339  mkdir myDir
+  340  chmod u-w myDir
+  341  mkdir myDir2
+  342  mkdir myDir3
+  343  pwd
+  344  cd ~/Assignment1/myDir2
+  345  pwd
+  346  touch myFile.txt
+  347  mv myFile.txt ../myDir3/
+  348  man free
+  349  free -m
+  350  cat /etc/os-release
+  351  ls -l
+  352  ls -l /etc/os-release 
+  353  pwd
+  354  ls
+---------(1)----------
+  355  cd Assignment1/
+  356  vi Assignment1.txt
+---------(2)----------
+  357  echo $SHELL
+  358  echo $SHELL >> Assignment1.txt 
+  359  cat Assignment1.txt 
+  360  vi Assignment1.txt 
+  361  echo $HOME >> Assignment1.txt 
+  362  vi Assignment1.txt 
+---------(3)----------
+  363  id
+  364  id >> Assignment1.txt 
+  365  vi Assignment1.txt 
+  366  ls
+---------(4)----------
+  367  man chmod
+  368  chmod u-w myDir
+  369  cd myDir
+  370  ls
+  371  ls -l
+  372  cd Assignment1
+  373  cd..
+  374  cd ..
+  375  ls
+  376  vi Assignment1.txt
+----------------------- 
+  377  cd myDir
+  378  touch file.txt
+  379  cd ..
+  380  cd myDir2
+  381  ls
+  382  cd myDir3
+  383  cd ..
+  384  cd myDir3
+  385  ls
+  386  rm myFile.txt 
+  387  ls
+  388  cd ..
+  389  ls
+  390  rmdir myDir2
+  391  rmdir myDir3
+  392  ls
+--------(5)------------
+  393  mkdir myDir2
+  394  mkdir myDir3
+--------(6)-----------
+  395  cd myDir2
+  396  touch myFile.txt
+  397  mv myFile.txt ../myDir3/
+------------------------
+  398  cd ..
+  399  cd myDir3
+  400  ls
+--------(6)------------
+  401  man free
+  402  free -m
+--------(7)-------------
+  403  cat /etc/os-release
+  404  cd ..
+  405  cat /etc/os-release >> As
+  406  cat /etc/os-release >> Assignment1.txt 
+-------------------------
+  407  ls
+  408  rm As
+  409  ls
+  410  vi Assignment1.txt
+----------(10)------------ 
+  411  ls -l /etc/os-release
+  412  ls -l /etc/os-release >> Assignment1.txt 
+  413  vi Assignment1.txt 
+  414  history > cmds.log
