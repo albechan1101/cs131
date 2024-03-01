@@ -12,7 +12,9 @@ Mem:          71367       32948       19155        3507       19264       33453
 Swap:          4119           0        4119
 
 9) NAME="Red Hat Enterprise Linux"
+---------------------
 VERSION="8.6 (Ootpa)"
+---------------------
 ID="rhel"
 ID_LIKE="fedora"
 VERSION_ID="8.6"
