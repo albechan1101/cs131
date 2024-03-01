@@ -7,6 +7,10 @@
 
 4) I am allowed to cd in that directory. I can "ls" and "ls -l" it. I cannot create files under it.
 
+6)               total        used        free      shared  buff/cache   available
+Mem:          71367       32948       19155        3507       19264       33453
+Swap:          4119           0        4119
+
 9) NAME="Red Hat Enterprise Linux"
 VERSION="8.6 (Ootpa)"
 ID="rhel"
